@@ -1,0 +1,8 @@
+com/kitchenstory/entity/Admin.class
+com/kitchenstory/controllers/AdminLoginController.class
+com/kitchenstory/controllers/FetchProductsData.class
+com/kitchenstory/Application.class
+com/kitchenstory/repository/AdminRepository.class
+com/kitchenstory/controllers/RemoveProductController.class
+com/kitchenstory/controllers/AddNewProductController.class
+com/kitchenstory/controllers/AdminPasswordChangeController.class
